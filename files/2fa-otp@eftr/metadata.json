@@ -1,0 +1,6 @@
+{
+    "uuid": "2fa-otp@eftr", 
+    "name": "OTP Client",
+    "description": "Shows TOTP/HOTP values",
+    "icon": "network"
+}
